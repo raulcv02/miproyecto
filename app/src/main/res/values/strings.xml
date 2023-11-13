@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">MiProyecto</string>
+    <string name="image_description">Descripción de la imagen</string>
+    <!-- O cualquier otro nombre que hayas asignado a tu aplicación y descripción de imagen -->
+</resources>
